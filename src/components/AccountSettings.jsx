@@ -11,7 +11,7 @@ function AccountSettings() {
                 <div className="p-4 flex items-center border-b pb-6">
                     <div className="relative mr-4">
                         <div className="w-16 h-16 rounded-full bg-gray-200 overflow-hidden">
-                            <img src="./public/Profile.png" alt="Profile" className="w-full h-full object-cover" />
+                            <img src="/Profile.png" alt="Profile" className="w-full h-full object-cover" />
                         </div>
                         <div className="absolute -right-1 -bottom-1 bg-popx-label-purple text-white rounded-full w-6 h-6 flex items-center justify-center text-xs">
                             ✎
